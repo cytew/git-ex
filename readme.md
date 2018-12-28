@@ -1,3 +1,4 @@
 # My first Repo
 * Hello Git!
-* I'm TaeBbong!
+* No I'm Kim!!!
+* dododo
